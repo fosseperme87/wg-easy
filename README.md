@@ -34,19 +34,7 @@ git clone https://github.com/fosseperme87/wg-easy.git
 
 edit in the folder "wg-easy" the "docker-compose.yml", setting a password for access to wg-panel and the public IP of your host
 
-copy in the root of the ftp this script above
-
-
-
-
-[script.txt](https://github.com/fosseperme87/wg-easy/files/7490522/script.txt)
-
-      
-
-
-
-
-rename it in script.sh, give it permission 777 and run this command:
+move to the the root of the ftp the script located in folder wg-easy (called script.sh), give it permission 777 and run this command:
 
 bash script.sh
 
