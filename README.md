@@ -38,5 +38,5 @@ move to the the root of the ftp the script located in folder wg-easy (called scr
 
 bash script.sh
 
-The script will work for you and finally you will take access to webgui of this Wireguard Panel on port 51820!!! (HTTP not HTTPS website)
+The script will work for you and finally you will take access to webgui of this Wireguard Panel on port 51821!!! (HTTP not HTTPS website)
 
