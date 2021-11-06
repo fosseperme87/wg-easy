@@ -3,11 +3,10 @@ services:
   wg-easy:
     environment:
       # ⚠️ Required:
-      # Change this to your host's public address
-      - WG_HOST=raspberrypi.local
+      - WG_HOST=Change this to your host's public address
 
       # Optional:
-      - PASSWORD=#Change this with your favourite password to access to webgui
+      - PASSWORD=Change this with your favourite password to access to webgui
       - WG_PORT=51820
       - WG_DEFAULT_ADDRESS=10.8.0.x
       - WG_DEFAULT_DNS=1.1.1.1
