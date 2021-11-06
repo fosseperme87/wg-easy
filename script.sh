@@ -21,4 +21,4 @@ docker-compose up --detach
 sudo docker start wg-easy
 
 
-echo "CONNECT TO HTTP://YOURIP:51820 AND ENJOY WITH WIREGUARD PANEL!!!"
+echo "CONNECT TO HTTP://YOURIP:51821 AND ENJOY WITH WIREGUARD PANEL!!!"
